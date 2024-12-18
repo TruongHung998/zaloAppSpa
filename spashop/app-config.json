@@ -1,0 +1,22 @@
+{
+  "app": {
+    "title": "SpaShop",
+    "textColor": "black",
+    "headerColor": "#ffffff",
+    "statusBar": "normal",
+    "actionBarHidden": true,
+    "hideAndroidBottomNavigationBar": false,
+    "hideIOSSafeAreaBottom": true,
+    "selfControlLoading": false,
+    "statusBarColor": "#000000",
+    "textAlign": "left"
+  },
+  "listCSS": [],
+  "listSyncJS": [],
+  "listAsyncJS": [],
+  "template": {
+    "name": "zaui-fashion",
+    "apiUrl": "",
+    "oaIDtoOpenChat": "3321651718651188779"
+  }
+}
